@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13新闻
+http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视高清
+http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5体育
+http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视高清
+http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视高清
+http://61.160.152.186/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=YFKHZS54cZ05pPNgwinpGnGxBkNgc1Lp5ldMVnP1cg2cmLStB4mWUn3r9KVXmlP835hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhPdGfPIA16yaooSjOHZ53ZQU1XwJFRgrbX%2BnTs60JauQR56gPzqz53LuwBJn8I%2BXiCUAUqz95OWDrYwQtsiI%2F5qVW%2Fgo3hLQG2iohDFQj2mjA%3D%3D&USERTOKEN=N8rvaeJLyUpzqJ8q1RqwyMsKl32OC1uh&areano=140800
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视高清
+http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10科教
+http://61.151.179.195/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
