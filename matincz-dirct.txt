@@ -1,3 +1,3 @@
-www.aliyundrive.net
-www.aliyundrive.com
-misakaf.org
+DOMAIN,aliyundrive.net
+DOMAIN,aliyundrive.com
+DOMAIN,misakaf.org
