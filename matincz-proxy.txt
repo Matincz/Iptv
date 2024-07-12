@@ -1,1 +1,1 @@
-truenas.com
+DOMAIN,truenas.com
