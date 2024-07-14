@@ -1,2 +1,2 @@
 DOMAIN,truenas.com
-DOMAIN,update.ixsystems.com
+DOMAIN,ixsystems.com
