@@ -1,1 +1,2 @@
 DOMAIN,truenas.com
+DOMAIN,update.ixsystems.com
