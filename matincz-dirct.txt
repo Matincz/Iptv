@@ -1,6 +1,8 @@
 DOMAIN,aliyundrive.net
 DOMAIN,aliyundrive.com
 DOMAIN,misakaf.org
+#极氪
+DOMAIN,aliyuncs.com
 
 # 该规则集包含绝大部分微信/WeChat网络请求 (IPv4/IPv6)
 # 请注意，该规则集除 Surge 之外不应该使用 (由于双栈问题且考虑到规则数量，部分子规则写法仅与Surge兼容)
