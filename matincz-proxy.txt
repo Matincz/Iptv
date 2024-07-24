@@ -1,4 +1,4 @@
-DOMAIN,truenas.com
+DOMAIN-KEYWORD,truenas.com
 DOMAIN-KEYWORD,ixsystems.com
 DOMAIN-KEYWORD,github.com
 DOMAIN,gist.github.com
