@@ -1,5 +1,5 @@
 DOMAIN,truenas.com
-DOMAIN,ixsystems.com
+DOMAIN-KEYWORD,ixsystems.com
 DOMAIN-KEYWORD,github.com
 DOMAIN,gist.github.com
 DOMAIN-KEYWORD,tasexy.com
