@@ -4,3 +4,4 @@ DOMAIN-KEYWORD,github.com
 DOMAIN,gist.github.com
 DOMAIN-KEYWORD,tasexy.com
 DOMAIN-KEYWORD,segment.io
+DOMAIN-KEYWORD,docker.io
